@@ -1,3 +1,2 @@
 # RESQ
-Women helpline chatbot
 This project is an expert system chatbot developed to assist women facing societal threats by providing 24/7 access to emergency services, legal aid, mental health support, and helplines. It integrates a panic alarm feature that triggers a loud siren to alert surroundings and sends real-time alerts for immediate assistance. Powered by natural language processing and adaptive program behavior, the chatbot can recognize distress keywords and deliver appropriate responses dynamically. Built with Python, Flask, Node.js, Express.js, JavaScript, HTML5, and CSS3, the system ensures accessibility, responsiveness, and reliability for critical situations.
